@@ -1,0 +1,29 @@
+body {
+    background: url('img/mountains.jpg');
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: greenyellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+form {
+    text-align: center;
+    font-size: xx-large;
+}
+input {
+    color: green;
+}
+select {
+    font-size: xx-large;
+    color: indigo;
+}
+
+.vk {
+    text-align: right;
+}
+a {
+    float: right;
+    
+}
